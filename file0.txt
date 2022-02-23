@@ -1,4 +1,4 @@
 Pune : 100
 Mumbai : 2
-Bangalore : 3
+Bangalore : 300
 Hyderabad : 4
