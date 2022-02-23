@@ -1,4 +1,4 @@
-Pune : 100
+Pune : 1
 Mumbai : 200
 Bangalore : 3
 Hyderabad : 4
